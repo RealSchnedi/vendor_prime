@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+
+    <!-- Class name for the default main Dialer activity -->
+    <string name="dialer_default_class" translatable="false">com.google.android.dialer.extensions.GoogleDialtactsActivity</string>
+
+</resources>
