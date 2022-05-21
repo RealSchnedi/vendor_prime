@@ -3,7 +3,7 @@
 #   SPDX-License-Identifier: Apache-2.0
 #
 
-PRIME_BASE_VERSION := 1.0
+PRIME_BASE_VERSION := 2.5
 
 PRIME_BUILD_DATE := $(shell date +%d%m%Y)
 PRIME_BUILD_TIME := $(shell date +%H%M)
